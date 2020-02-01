@@ -1,11 +1,3 @@
-/*
-Name: Siru Chen
-ID: 1596384
-CMPUT 275, Winter 2020
-Weekly Exercise#1 Display and joystick
-*/
-
-// following define and global variable are provided in eclass
 #define SD_CS 10
 #define JOY_VERT  A9  // should connect A9 to pin VRx
 #define JOY_HORIZ A8  // should connect A8 to pin VRy
